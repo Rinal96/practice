@@ -1,0 +1,8 @@
+This file was created when I was on mmy dekstop
+NOW I AM CHANGING IT
+
+<<<<<<< HEAD
+NOW THIS CHANGE IS IN MASTER
+=======
+ANd this is the one I am working with on github
+>>>>>>> 5b894e25b0c8c63acdec08450a016c5c9a4995cd
